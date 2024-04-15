@@ -1,4 +1,16 @@
 # ************************** Code Companion Prompt ***********************************
+# Implement a Python decorator to measure the execution time of functions and log the results.
+
+
+# ************************** Code Companion Prompt ***********************************
+# Create a Python class for a REST API client, handling authentication, GET/POST requests, and JSON parsing.
+
+
+# ************************** Code Companion Prompt ***********************************
+# Build a Python script to scrape data from a website using Beautiful Soup, extract specific elements, and store the results in a CSV file.
+
+
+# ************************** Code Companion Prompt ***********************************
 # function that generates a random uuid
 
 
@@ -33,6 +45,10 @@
 
 # ************************** Code Companion Prompt ***********************************
 # Build a base class for a database client
+
+
+
+# Write a SQL query to find the top 10 most frequent customers in a sales database, along with their total purchase amounts.
 
 
 
