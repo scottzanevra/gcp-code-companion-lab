@@ -31,6 +31,9 @@ def multiply(a, b):
 
 # ************************** Code Companion Prompt ***********************************
 # optimise for large files
+# include cloud tracing
+
+
 
 def upload_blob(bucket_name, source_file_name, destination_blob_name):
     """Uploads a file to the bucket."""
