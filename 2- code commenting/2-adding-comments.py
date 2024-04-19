@@ -1,4 +1,8 @@
 
+# ************************** Code Companion Prompt ***********************************
+# Add a comment to each line fo code that explains what it is doing
+
+
 import streamlit as st
 
 st.title('🎈 My Banking App')

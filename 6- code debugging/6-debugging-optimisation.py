@@ -17,7 +17,7 @@ print(f"\nThe income today was £{income:0.2f}")
 
 
 # ************************** Code Companion Prompt ***********************************
-# which is this fuction returning the wrong answer
+# why is this fuction returning the wrong answer
 def multiply(a, b):
     z = int(a)*b
     return z
@@ -25,13 +25,16 @@ def multiply(a, b):
 
 # ************************** Code Companion Prompt ***********************************
 # write a function that will upload an file to google cloud storage
-# hightlight the code and ask
+
+
+
+
+# ************************** Code Companion Prompt ***********************************
+# how might i optimise the gcs upload funtion to cater for large files
+
+
 
 # ************************** Code Companion Prompt ***********************************
-# optimise for large files
-
-
-
 # how could this Bigquery query be optimised
 '''
 WITH daily_sum AS ( -- Group on the date, then sum to get total passengers per day

@@ -30,9 +30,8 @@ class BankAccount:
     def deposit(self, amount):
         self.balance += amount
 # ************************** Code Companion Prompt ***********************************
-
 # Explain this function
-# Add additional logic
+# What additional logic could also be added to the withdraw funtion
     def withdraw(self, amount):
         if amount <= self.balance:
             self.balance -= amount

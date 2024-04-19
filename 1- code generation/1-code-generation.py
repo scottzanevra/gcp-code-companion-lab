@@ -1,13 +1,20 @@
+
 # ************************** Code Companion Prompt ***********************************
-# Implement a Python decorator to measure the execution time of functions and log the results.
+# Implement a Python decorator to measure the execution time of functions and log the results.import time
+
+
 
 
 # ************************** Code Companion Prompt ***********************************
 # Create a Python class for a REST API client, handling authentication, GET/POST requests, and JSON parsing.
 
 
+
+
 # ************************** Code Companion Prompt ***********************************
 # Build a Python script to scrape data from a website using Beautiful Soup, extract specific elements, and store the results in a CSV file.
+
+
 
 
 # ************************** Code Companion Prompt ***********************************
@@ -17,13 +24,14 @@
 
 
 # ************************** Code Companion Prompt ***********************************
-# function that extracts and email address using regex from a string
+# I want to extract an email address from a string usig regex
 
 
 
 
 # ************************** Code Companion Prompt ***********************************
 # function that does a inner join between two lists
+
 
 
 
@@ -35,7 +43,8 @@
 
 
 # ************************** Code Companion Prompt ***********************************
-# Function to create a Cloud Storage bucket
+# Write a function to create a Cloud Storage bucket and upload a file to it
+
 
 
 

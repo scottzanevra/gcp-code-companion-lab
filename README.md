@@ -18,6 +18,8 @@ Here's a glimpse into the exciting areas you'll explore:
 
 - **Code Explanation**: Unsure about a complex piece of code? Gemini Code Assist is here to shed light! Simply point it towards any code snippet, and it will provide clear explanations, breaking down the logic and purpose of each line. Gain a deeper understanding of your codebase and enhance your debugging skills.
 
+- **Look for security vulnerabilities:** Gemini can scan your code for potential security weaknesses, helping you write more secure applications.
+
 - **Unit Testing**:  Learn how to leverage Gemini Code Assist to create comprehensive unit tests that ensure the robustness and reliability of your code. With its guidance, you'll be able to write effective tests faster and with greater confidence.
 
 - **Exception Handling**:  Anticipate and gracefully handle potential errors in your code. Gemini Code Assist will equip you with the knowledge to implement robust exception handling mechanisms, preventing unexpected crashes and improving the overall stability of your applications.

@@ -10,6 +10,7 @@ def extract_email(string):
 
 
 
+
 def inner_join(list1, list2):
     result = []
     for item1 in list1:
